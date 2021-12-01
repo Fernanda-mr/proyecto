@@ -51,7 +51,7 @@ class _ImagenLogo extends StatelessWidget {
         //margin: EdgeInsets.only(top:40),margen /only solo para la parte de arriba
         child: Column(
           children: [
-            Image(image: AssetImage('assets/DOS.jpeg')),
+            Image(image: AssetImage('assets/DOS.PNG')),
             
           ],
         ),
